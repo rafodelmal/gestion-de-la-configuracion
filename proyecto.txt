@@ -1,0 +1,6 @@
+Nuestro proyecto consiste en la hallar una solición mediante la ingenieria de sistemas, de preferencia implementando
+software y hardware de manera eficiente para Colmena Seguros, por lo tanto actualmente el proyecto se presenta en
+fase de planeación pero la fase de implementacion deberia de comenzar esta semana que viene.
+
+Para mayor información al respecto del mismo reto puedes acceder
+ al siguiente link: https://www.channge.co/todos-a-salvo
