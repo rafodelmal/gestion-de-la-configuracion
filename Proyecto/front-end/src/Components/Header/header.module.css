@@ -1,15 +1,16 @@
 .header {
-    background: white;
+    position: relative;
+    background: #8215a3;
     padding: 0;
-    border-bottom: 1px solid #e72929;
+    border-bottom: 1px solid #ffffff ;
   }
   
   .header a {
-    color: #af1313;
+    color: rgb(255, 255, 255);
   }
   
   .header a:hover {
-    background: #e72929;
+    background: #755968;
     color: white;
     cursor: pointer;
   }
@@ -42,8 +43,8 @@
   
   .menu {
     position: absolute;
-    z-index: 1001;
-    background-color: whitesmoke;
+    z-index: 1;
+    background: #8215a3;
     display: none;
   }
   
