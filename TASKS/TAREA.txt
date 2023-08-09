@@ -1,0 +1,22 @@
+TAREA
+
+¿que problema resuelve itil en la gestion de la configuracion?
+
+ITIL es un marco ampliamente utilizado para gestionar servicios de tecnología de la información (TI). Un proceso clave en ITIL
+es la Gestión de la Configuración y Activos de Servicio, que aborda problemas en la gestión de activos de TI en las
+organizaciones. Estos problemas incluyen la falta de visibilidad en entornos complejos, gestión ineficiente de cambios,
+dificultades en la resolución de problemas, cumplimiento y auditoría, y optimización de recursos. ITIL soluciona estos
+problemas al proporcionar un enfoque estructurado para mantener una base de datos de activos detallada, controlar los cambios,
+facilitar la resolución de problemas, asegurar el cumplimiento y mejorar la planificación de recursos. En resumen, ITIL mejora
+la gestión de activos de TI, aumenta la eficiencia y confiabilidad de los servicios de TI en las organizaciones.
+
+Una de las principales o mejores de buenas practicas fue la implementacion de 5 niveles de ciclo de vida en la V3 los cuales son:
+
+-Servicce Design -Service Strategy -Service Operation -Service Transition -Continual Service Improvement.
+
+¿Que problema soluciona?
+
+-Se usa para darle un valor de negocio a los servicios de tecnologia por asi decirlo que implementa una organización sin importar
+su tamaño. Esto garantiza que todos los esfuerzos estanc entralizados en un objetivo el cual tiene un valor para el negocio, esto 
+seria una serie de pautas y estartegias de buenas practicas las cuales brindan un marco agil y eficaz para una organizaion y
+tambien para la gestion de los diferentes servicios tecnologicos de una organizacion 
